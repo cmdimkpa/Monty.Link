@@ -1,2 +1,2 @@
-# Monty.Link
-Blockchain for simple Web Data I/O
+# data chains
+random musings about blockchain data storage
